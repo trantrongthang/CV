@@ -1,0 +1,46 @@
+body {
+  background: #9A7D7A;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 500px;
+  background: #C4C286;
+ }
+
+
+.center {
+  text-align: center;
+}
+
+.about-me img {
+  width: 100px;
+  height: 100px;
+}
+
+.description ul {
+	padding-left: 240px;
+}
+
+.title__red {
+  color: red;
+  font-size: 22px;
+}
+
+.box__table {
+  /*border: 1px solid #333;*/
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px 50px;
+}
+
+button {
+  padding: 10px 20px; 
+  border-radius: 10px;
+}
